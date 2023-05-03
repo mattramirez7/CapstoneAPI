@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/CapstoneAPI/static/css/main.851591ee.css",
-    "main.js": "/CapstoneAPI/static/js/main.d7162d11.js",
-    "static/js/787.8e41b743.chunk.js": "/CapstoneAPI/static/js/787.8e41b743.chunk.js",
-    "static/media/Ahmed2.png": "/CapstoneAPI/static/media/Ahmed2.0817b4b740df8baa8c00.png",
-    "static/media/RyanC.png": "/CapstoneAPI/static/media/RyanC.aea9fe0dbcfb2e64ab4d.png",
-    "static/media/andrew.png": "/CapstoneAPI/static/media/andrew.198ce466c2bac30a68a5.png",
-    "static/media/Matt2.png": "/CapstoneAPI/static/media/Matt2.ce6129f63435fb5a3475.png",
-    "static/media/Chris.png": "/CapstoneAPI/static/media/Chris.51abb803bf5ab3ccf128.png",
-    "static/media/logo.png": "/CapstoneAPI/static/media/logo.42a7dc9e2051ea0a60f0.png",
-    "static/media/about-us-backdrop.jpeg": "/CapstoneAPI/static/media/about-us-backdrop.9ef82030bd6ed9b19958.jpeg",
-    "static/media/doc.md": "/CapstoneAPI/static/media/doc.b4c3db48fed766c19d73.md",
-    "index.html": "/CapstoneAPI/index.html",
-    "main.851591ee.css.map": "/CapstoneAPI/static/css/main.851591ee.css.map",
-    "main.d7162d11.js.map": "/CapstoneAPI/static/js/main.d7162d11.js.map",
-    "787.8e41b743.chunk.js.map": "/CapstoneAPI/static/js/787.8e41b743.chunk.js.map"
+    "main.css": "/static/css/main.851591ee.css",
+    "main.js": "/static/js/main.7ebe4718.js",
+    "static/js/787.8e41b743.chunk.js": "/static/js/787.8e41b743.chunk.js",
+    "static/media/Ahmed2.png": "/static/media/Ahmed2.0817b4b740df8baa8c00.png",
+    "static/media/RyanC.png": "/static/media/RyanC.aea9fe0dbcfb2e64ab4d.png",
+    "static/media/andrew.png": "/static/media/andrew.198ce466c2bac30a68a5.png",
+    "static/media/Matt2.png": "/static/media/Matt2.ce6129f63435fb5a3475.png",
+    "static/media/Chris.png": "/static/media/Chris.51abb803bf5ab3ccf128.png",
+    "static/media/logo.png": "/static/media/logo.42a7dc9e2051ea0a60f0.png",
+    "static/media/about-us-backdrop.jpeg": "/static/media/about-us-backdrop.9ef82030bd6ed9b19958.jpeg",
+    "static/media/doc.md": "/static/media/doc.b4c3db48fed766c19d73.md",
+    "index.html": "/index.html",
+    "main.851591ee.css.map": "/static/css/main.851591ee.css.map",
+    "main.7ebe4718.js.map": "/static/js/main.7ebe4718.js.map",
+    "787.8e41b743.chunk.js.map": "/static/js/787.8e41b743.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.851591ee.css",
-    "static/js/main.d7162d11.js"
+    "static/js/main.7ebe4718.js"
   ]
 }
